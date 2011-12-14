@@ -1,0 +1,12 @@
+C:\Documents and Settings\Daniel\Desktop\MCPinkSource\FROSTEDBUTTS\MCPink.exe.config
+C:\Documents and Settings\Daniel\Desktop\MCPinkSource\FROSTEDBUTTS\MCPink.exe
+C:\Documents and Settings\Daniel\Desktop\MCPinkSource\FROSTEDBUTTS\MCPink.pdb
+C:\Documents and Settings\Daniel\Desktop\MCPinkSource\MCPinkSource\MCPink\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Daniel\Desktop\MCPinkSource\MCPinkSource\MCPink\obj\x86\Debug\MCPink.exe
+C:\Documents and Settings\Daniel\Desktop\MCPinkSource\MCPinkSource\MCPink\obj\x86\Debug\MCPink.pdb
+C:\Documents and Settings\Daniel\Desktop\MCPinkSourceBackup\FROSTEDBUTTS\MCPink.exe.config
+C:\Documents and Settings\Daniel\Desktop\MCPinkSourceBackup\FROSTEDBUTTS\MCPink.exe
+C:\Documents and Settings\Daniel\Desktop\MCPinkSourceBackup\FROSTEDBUTTS\MCPink.pdb
+C:\Documents and Settings\Daniel\Desktop\MCPinkSourceBackup\MCPinkSource\MCPink\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Daniel\Desktop\MCPinkSourceBackup\MCPinkSource\MCPink\obj\x86\Debug\MCPink.exe
+C:\Documents and Settings\Daniel\Desktop\MCPinkSourceBackup\MCPinkSource\MCPink\obj\x86\Debug\MCPink.pdb
